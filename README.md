@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/gl-ankit-kumar/PRODIGY_DS_01/blob/main/Hotel.png" alt="Hotel">
+  <img src="https://github.com/gl-ankit-kumar/Hotel-Booking-Cancellation-Capstone-Project-/blob/main/Hotel.png" alt="Hotel">
 </div>
 
 # Hotel Booking Cancellation Prediction - Capstone Project
