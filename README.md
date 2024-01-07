@@ -1,8 +1,6 @@
 # Hotel Booking Cancellation Prediction - Capstone Project
  "Hotel Booking Cancellation Prediction: A data-driven capstone project deploying machine learning to empower hotels in making informed decisions, optimizing resources, and enhancing customer satisfaction. Predictive models and actionable insights revolutionize reservation management, addressing revenue loss and operational inefficiencies.
 
-## Post Graduate Program in Data Science and Engineering - Bangalore - PGPDSE APR22
-
 # Introduction
 This capstone project focuses on predicting hotel booking cancellations using advanced machine learning techniques. The objective is to empower hotels to make informed decisions, optimize resource utilization, and revolutionize reservation management strategies.
 
